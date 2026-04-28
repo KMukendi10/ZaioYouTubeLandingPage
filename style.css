@@ -51,6 +51,7 @@ body {
     border: none;
     border-left: 1px solid #cccccc;
     width: 10%;
+    cursor: pointer;
 }
 .search button i {
     margin: 0;
